@@ -43,7 +43,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo skills
-- 🎓 Me desenvolvendo no programa **DESPERTAR DEV**  da <a href="https://www.growdev.com.br">GROWDEV</a>
+- 🎓 Me desenvolvendo no programa **DESPERTAR DEV**  da <a href="https://www.growdev.com.br">**GROWDEV**</a>
 
 <h3>Minhas Skills</h3>
 
@@ -52,6 +52,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 
 **DevOps**
@@ -70,9 +71,9 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-rodrigoelly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-rodrigoelly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoelly/)](https://www.linkedin.com/in/rodrigoelly/)
 [![Gmail Badge](https://img.shields.io/badge/-rodrigoelly@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoelly@outlook.com)](mailto:rodrigoelly@outlook.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/rodrigoalveselly)
+[![GitHub](https://img.shields.io/github/followers/rodrigoalveselly?label=follow&style=social)](https://github.com/rodrigoalveselly)
 
 
 
