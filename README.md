@@ -27,7 +27,7 @@
     <img src="https://avatars.githubusercontent.com/u/91746194?u=09f7f56160f4264e4631c02993ec74635a79b6bb&v=4" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Rodrigo Alves</h3>
+  <h3 align="center">Rodrigo Alves de Elly</h3>
 
   <p align="center">
     Dev fullstack em desenvolvimento!
