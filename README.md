@@ -23,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/roudrigoalves/"> 
+  <a href="https://github.com/rodrigoalveselly/"> 
     <img src="https://avatars.githubusercontent.com/u/91746194?u=09f7f56160f4264e4631c02993ec74635a79b6bb&v=4" alt="Logo" width="80" height="80">
   </a>
 
@@ -38,25 +38,44 @@
   </p>
 </div>
 
-<div align="center">
 
 
-![LinkedIn][linkedin-shield]
+<h3>Sobre mim</h3>
 
-</div>
+- 🤔 Explorando novas tecnologias e desenvolvendo skills
+- 🎓 Me desenvolvendo no programa **DESPERTAR DEV**  da <a href="https://www.growdev.com.br">GROWDEV</a>
+
+<h3>Minhas Skills</h3>
+
+**Aplicações e dados**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 
-<!-- ABOUT THE PROJECT -->
-## Meu repositório
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
-Neste repositório você encontrará projetos desenvolvidos por mim e projetos de terceiros que contribui.
+**Ferramentas de desenvolvimento**
 
-Além disso, encontrará contéudo das seguintes tecnologias:
-* HTML
-* CSS
-* JavaScript
-* Python
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+
+<br/>
+
+
+<h3>Onde me encontrar</h3>
+
+[![Linkedin](https://img.shields.io/badge/-rodrigoelly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-rodrigoelly@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoelly@outlook.com)](mailto:rodrigoelly@outlook.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/rodrigoalveselly)
+
+
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
