@@ -43,7 +43,6 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo skills
-- 🎓 Me desenvolvendo no programa **DESPERTAR DEV**  da <a href="https://www.growdev.com.br">**GROWDEV**</a>
 
 <h3>Minhas Skills</h3>
 
